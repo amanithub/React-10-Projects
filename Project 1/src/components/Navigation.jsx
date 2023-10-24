@@ -7,7 +7,7 @@ return(
 
     <ul>
         <li href="#">Menu</li>
-        <li href="#">Location</li>
+        <li href="#">Sale</li>
         <li href="#">About</li>
         <li href="#">Contact</li>
     </ul>
